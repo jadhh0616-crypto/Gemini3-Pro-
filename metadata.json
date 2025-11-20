@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3 Benchmark Explorer",
+  "description": "An interactive dashboard showcasing Gemini 3 Pro benchmark results compared to other leading AI models. Users can explore detailed methodologies for each benchmark.",
+  "requestFramePermissions": []
+}
